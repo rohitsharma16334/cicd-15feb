@@ -1,4 +1,4 @@
-name: cicd with test case
+name: cicd test pipeline
 
 on:
   push:
